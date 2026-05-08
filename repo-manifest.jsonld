@@ -561,8 +561,9 @@
     {
       "@id": "https://repolex.ai/r/servo/rust-url/commit/43f47e2fcfdd132c531fb05aa16171ca85be95f4",
       "git:hexsha": "43f47e2fcfdd132c531fb05aa16171ca85be95f4",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v2.5.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.5.7",
+      "repolex:parsedAt": "2026-05-08T04:41:59.803123+00:00"
     }
   ]
 }
